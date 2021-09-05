@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Redux-cart/static/css/main.8bfdf6a6.chunk.css",
-    "main.js": "/Redux-cart/static/js/main.e9614e00.chunk.js",
-    "main.js.map": "/Redux-cart/static/js/main.e9614e00.chunk.js.map",
-    "runtime-main.js": "/Redux-cart/static/js/runtime-main.29df4f0d.js",
-    "runtime-main.js.map": "/Redux-cart/static/js/runtime-main.29df4f0d.js.map",
-    "static/js/2.9747aa59.chunk.js": "/Redux-cart/static/js/2.9747aa59.chunk.js",
-    "static/js/2.9747aa59.chunk.js.map": "/Redux-cart/static/js/2.9747aa59.chunk.js.map",
-    "static/js/3.4722bedb.chunk.js": "/Redux-cart/static/js/3.4722bedb.chunk.js",
-    "static/js/3.4722bedb.chunk.js.map": "/Redux-cart/static/js/3.4722bedb.chunk.js.map",
-    "index.html": "/Redux-cart/index.html",
-    "static/css/main.8bfdf6a6.chunk.css.map": "/Redux-cart/static/css/main.8bfdf6a6.chunk.css.map",
-    "static/js/2.9747aa59.chunk.js.LICENSE.txt": "/Redux-cart/static/js/2.9747aa59.chunk.js.LICENSE.txt"
+    "main.css": "/Authentication/static/css/main.8bfdf6a6.chunk.css",
+    "main.js": "/Authentication/static/js/main.e9614e00.chunk.js",
+    "main.js.map": "/Authentication/static/js/main.e9614e00.chunk.js.map",
+    "runtime-main.js": "/Authentication/static/js/runtime-main.a342add3.js",
+    "runtime-main.js.map": "/Authentication/static/js/runtime-main.a342add3.js.map",
+    "static/js/2.9747aa59.chunk.js": "/Authentication/static/js/2.9747aa59.chunk.js",
+    "static/js/2.9747aa59.chunk.js.map": "/Authentication/static/js/2.9747aa59.chunk.js.map",
+    "static/js/3.4722bedb.chunk.js": "/Authentication/static/js/3.4722bedb.chunk.js",
+    "static/js/3.4722bedb.chunk.js.map": "/Authentication/static/js/3.4722bedb.chunk.js.map",
+    "index.html": "/Authentication/index.html",
+    "static/css/main.8bfdf6a6.chunk.css.map": "/Authentication/static/css/main.8bfdf6a6.chunk.css.map",
+    "static/js/2.9747aa59.chunk.js.LICENSE.txt": "/Authentication/static/js/2.9747aa59.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.29df4f0d.js",
+    "static/js/runtime-main.a342add3.js",
     "static/js/2.9747aa59.chunk.js",
     "static/css/main.8bfdf6a6.chunk.css",
     "static/js/main.e9614e00.chunk.js"
